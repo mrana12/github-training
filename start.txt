@@ -1,2 +1,2 @@
-Test Git Quick Start Demo
+Test Git Quick Start Demo -- Adding some words, modified from the feature1 branch
 Modifying this file within master
